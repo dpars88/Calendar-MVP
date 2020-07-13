@@ -1,7 +1,7 @@
 module.exports = {
   geocodeAPI_Key: '**************************************',
-  username: '********',
+  username: 'd.parson',
   password: null,
-  host: '*****',
+  host: '',
   port: 5432
 }
